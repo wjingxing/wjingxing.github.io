@@ -12,10 +12,10 @@ I was awarded the attacker of the year by our reserve team coach in 2019.
 {% include figure.liquid loading="eager" path="assets/img/award2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
 
 A goal I scored. Video was taken by my father when he visited me. 
-{% include figure.liquid loading="eager" path="assets/video/710.MP4" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include video.liquid path="assets/video/710.MP4" class="custom-class" %}
 
 I played for Kesem Berkeley soccer team for 6 semesters in total. This video was made by one of my teammates during the spring 2024 semester. His name is "Horsepower".
-{% include figure.liquid loading="eager" path="assets/video/Kesem.MP4" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include video.liquid path="assets/video/Kesem.MP4" class="custom-class" %}
 
 A picture of the award, which now sits on my bookshelf back home.
 {% include figure.liquid loading="eager" path="assets/img/award3.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
