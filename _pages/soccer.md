@@ -31,7 +31,7 @@ I played for Kesem Berkeley soccer team for 6 semesters in total. This video was
    controls=false %}
 
 This is us taking a photo in the rain. 
-{% include figure.liquid loading="eager" path="assets/img/kesemrain.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid path="assets/img/kesemrain.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
 
 This was another goal I scored when I was twelve or thirteen. I was still China attending middle school.
 {% include video.liquid 
