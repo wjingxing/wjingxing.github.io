@@ -17,6 +17,9 @@ A goal I scored. Video was taken by my father when he visited me.
 I played for Kesem Berkeley soccer team for 6 semesters in total. This video was made by one of my teammates during the spring 2024 semester. His name is "Horsepower".
 {% include video.liquid path="assets/video/Kesem.MP4" class="custom-class" %}
 
+This was another goal I scored when I was twelve or thirteen. I was still China attending middle school.
+{% include video.liquid path="assets/video/711.MP4" class="custom-class" %}
+
 A picture of the award, which now sits on my bookshelf back home.
 {% include figure.liquid loading="eager" path="assets/img/award3.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
 
