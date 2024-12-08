@@ -1,8 +1,8 @@
 ---
 layout: page
-title: GMAS
-permalink: /GMAS/
-description: GMAS, or Good Memories Associated with Soccer.
+title: GMS
+permalink: /GMS/
+description: GMS, or Good Memories with Soccer.
 nav: true
 nav_order: 8
 ---
