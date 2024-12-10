@@ -23,6 +23,9 @@ A picture of the award, which now sits on my bookshelf back home.
     </div>
 </div>
 
+{% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+
+
 A goal I scored. Video was taken by my father when he visited me. 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
