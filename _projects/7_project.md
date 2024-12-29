@@ -43,7 +43,7 @@ This is a project I did for the high-dimensional statistics class. I chose this 
 <body>
         <iframe class="pdf" 
                 src=
-"https://wjingxing.github.io/assets/pdf/imp.pdf"
+"https://wjingxing.github.io/assets/pdf/Some_Math_for_Compressed_Sensing.pdf"
             width="800" height="500">
         </iframe>
 </body>
