@@ -1,20 +1,14 @@
 # jemdoc: menu{MENU}{index.html}, nofooter
-== Jin Shang
+== Jingxing Wang
 
 ~~~
-{}{img_left}{photos/bio4.jpeg}{alt text}{326px}{245px}
-[https://jshang2.github.io Jin Shang], Ph.D. \n 
-Applied Scientist II at [https://www.amazon.com/ Amazon] \n
-Arlington, Virginia, United States \n
+{}{img_left}{photos/profile_picture.jpeg}{alt text}{326px}{245px}
+Incoming Ph.D Student at [https://www.washington.edu/ University of Washington] \n
+Seattle, Washington, United States \n
 \n
-Email: astrostell@gmail.com \[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\] \n
+Email: jingxing0607@gmail.com \n 
+#\[[https://scholar.google.com/citations?user=CIfBuzcAAAAJ&hl=en Google Scholar]\] \n
 ~~~
-
-
-
-
-#at Baton Rouge, Louisiana, USA. (March 19, 2021)
-at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 
 #== News
 #- \[05-15-2020\] "List-wise fairness criterion for point processes" is accepted by KDD'20!
@@ -25,19 +19,20 @@ at Grand Isle State Park, Louisiana, USA. (Oct 6, 2018)
 #- \[08-18-2018\] "Demographic inference via knowledge transfer in cross-domain recommender systems" is accepted by ICDM'18!
 
 == About me
-I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
+I'm an incoming student at [https://www.ece.uw.edu/ UW ECE], co-advised by Professor [https://people.ece.uw.edu/fazel_maryam/ Maryam Fazel] and Professor [https://vchariso.gitlab.io/ Vasileios Charisopoulos]. 
 
-== Education 
-- Ph.D. in Computer Science, Louisiana State University, Aug. 2016 - Aug. 2020
-- M.S. in Solid Mechanics, University of Science and Technology of China, Sep. 2013 - Jun. 2016
-- B.S. in Theoretical and Applied Mechanics, University of Science and Technology of China, Sep. 2009 - Jun. 2013
+Previsouly at Berkeley, I worked with Professor [https://people.eecs.berkeley.edu/~kannanr/ Kannan Ramchandran] in the department of [https://eecs.berkeley.edu/ EECS], and spent the majority of undergraduate years at [https://bliss.eecs.berkeley.edu/ Berkeley Lab for Information and System Sciences]. I explored signal processing algorithms and explainable models. The people there made this experience the best I could ask for: [https://erginbas.github.io/ Efe], [https://landonbutler.github.io/ Landon], [https://justinkang221.github.io/ Justin], [https://www.linkedin.com/in/mert-cemri-4a727913a/ Mert], [https://www.linkedin.com/in/andrewqin/ Andrew], [https://www.linkedin.com/in/sultan-daniels/ Sultan], [https://www.linkedin.com/in/christopher-archer-756156182/ Chris], [https://sites.google.com/view/syomantak Syomantak], and [https://www.linkedin.com/in/eric-xu-233a0a72/ Eric]. 
+
+I also worked with Professor [https://yanchiwei.github.io/ Chiwei Yan] in the department of [https://ieor.berkeley.edu/ IEOR]. When I was working with him on math proofs and coding, he was very patient to me and very sharp. He taught me how to find directions when I'm lost, and helped me build habbits necessary for the field. I couldn't ask for a better guidence to research than what he provided me with. 
 
 == Research Interests 
-- Statistical Machine Learning, Deep Learning, Point Process, Optimization, Fairness
-- Data Mining, Information Retrieval, Recommender System 
-- Computer Vision, Computer Graphics, Natural Language Processing
+- Learning and Decision-making
+- Information Theory, Optimization, and Statistics
 
-== Visitors
+== Education 
+- Ph.D. in Electrical and Computer Engineering, [https://www.washington.edu/ University of Washington], 2025 - 
+- B.A. in Applied Mathematics and Computer Science, [https://www.berkeley.edu/ University of California, Berkeley], 2021 - 2025
+
 ~~~
 {}{raw}
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
